@@ -6,6 +6,7 @@ In this repository, I am open-sourcing my python code used to automate the proce
 Attached is two scripts:
 ucf_to_xls.py (.ucf to .xls)
 - This script (ucf_to_xls.py) will extract the I/O_Port_Name and the Pin_Location_Names in the .ucf file and output them into the appropriate cell block in the "Spartan-6 FGG" sheet from workbook, test.xls.
+
 .xls to .ucf   (xls_to_ucf.py)
 - This script (xls_to_ucf.py) will extract the I/O_Port_Name and the Pin_Location_Names in the "Spartan-6 FGG" sheet from workbook, test_rv.xls and output them into a .txt file.
 
