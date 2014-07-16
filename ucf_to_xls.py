@@ -162,7 +162,7 @@ def ucf_to_xls(ifile_ucf,ofile_xls,sheet_name):
     wb.save(os.path.splitext(file_path)[-2]+"_rv"+os.path.splitext(file_path)[-1])
 
 # Run the automation scripts
-ucfMapList("spartan3.ucf","ucfMapList.xls")
-ucf_to_xls("spartan3.ucf","test.xls","Spartan-6 FGG")
+ucfMapList("spartan3.ucf.txt","ucfMapList.xls")
+ucf_to_xls("spartan3.ucf.txt","test.xls","Spartan-6 FGG")
 
 
