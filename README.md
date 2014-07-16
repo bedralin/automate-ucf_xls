@@ -1,7 +1,7 @@
 automate-ucf_xls
 ================
 
-In this repository, I am open-sourcing my python code used to automate the process of extracting I/O_Port_Name and Pin_Location_Name from the .ucf file and directly input it into the excel file (.xls). 
+In this repository, I am open-sourcing my python code used to automate the process of extracting I/O_Port_Name and Pin_Location_Name from the .ucf file and directly input it into the excel file (.xls). I also automated the other direction as well.
 
 Attached is two scripts:
 ucf_to_xls.py (.ucf to .xls)
