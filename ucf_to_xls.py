@@ -22,7 +22,7 @@ In order to make this work, you need to install 3 important packages:
 2) xlrd (http://pypi.python.org/pypi/xlrd)
    a) Need this to read worksheets
    b) Go to link and Download xlrd-VERS#.tar.gz
-3) xlwt
+3) xlwt (http://pypi.python.org/pypi/xlwt)
    a) Need this to write worksheets
    b) Go to link and Download xlwt-VERS#.tar.gz
 4) Install the packages.
